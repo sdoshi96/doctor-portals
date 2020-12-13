@@ -13,7 +13,7 @@ function App() {
       <div className="App">
       <Switch>
         <Route exact path="/">
-        <h1>Doctor Portal Login</h1>
+        <h1>Doctor-Portal Login</h1>
           <div className="container">
             <div className="row">
               <div className="col-4"></div>
